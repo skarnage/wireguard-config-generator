@@ -3,11 +3,11 @@
 Basic idea and inspiration is from https://github.com/bitcanon/wireguard-tunnel-generator
 
 ## Introduction
-A simple bash script to speed up and simplify the deployment of WireGuard connecting to a MikroTik firewall running RouterOS.
+A simple bash script to speed up and simplify the deployment of WireGuard connecting to a MikroTik router running RouterOS.
 
-The script will produce the RouterOS configuration required as well as a QR code to scan with the WireGuard mobile app.
+The script will produce the RouterOS configuration required as well as a QR code to scan with the WireGuard app.
 
-This will enable you to deploy a new mobile VPN client within a minute or two, and you don't have to send public keys back and forth between the mobile device and the router.
+This will enable you to deploy a new VPN client within a minute or two, and you don't have to send public keys back and forth between the device and the router.
 
 With the added parameters, it is now possible to generate the clients configurations (QR included) directly on the MikroTik device!
 
