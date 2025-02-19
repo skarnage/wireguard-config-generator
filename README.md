@@ -1,4 +1,4 @@
-# 🖧 WireGuard Tunnel Generator
+# 🖧 WireGuard Configuration Generator
 
 Basic idea and inspiration is from https://github.com/bitcanon/wireguard-tunnel-generator
 
